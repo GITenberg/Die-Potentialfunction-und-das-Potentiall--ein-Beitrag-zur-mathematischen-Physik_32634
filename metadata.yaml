@@ -1,0 +1,31 @@
+_repo: Die-Potentialfunction-und-das-Potentiall--ein-Beitrag-zur-mathematischen-Physik_32634
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clausius, R. (Rudolf)
+    alias: Clausius, Rudolf Julius Emmanuel
+    birthdate: 1822
+    deathdate: 1888
+    gutenberg_agent_id: '35970'
+    url: http://www.gutenberg.org/2009/agents/35970
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- Physics
+- Mathematics
+gutenberg_issued: '2010-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32634'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Potential theory (Mathematics)'
+title: Die Potentialfunction und das Potentiall; ein Beitrag zur mathematischen Physik
+url: http://www.gutenberg.org/ebooks/32634
