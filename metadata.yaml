@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35970'
     url: http://www.gutenberg.org/2009/agents/35970
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32634#Die-Potentialfunction-und-das-Potentiall--ein-Beitrag-zur-mathematischen-Physik
 gutenberg_bookshelf:
 - DE Sachbuch
 - Physics
